@@ -2,6 +2,9 @@ html, body {
   font-family: "Roboto", sans-serif;
 }
 
+.banner {
+ background: url(/imagens/banner.jpeg) 27% no-repeat;
+}
 nav {
   text-align: center;
 }
